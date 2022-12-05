@@ -1,2 +1,4 @@
 # git_testpub
-public git_test
+first github repo
+hello larry!
+
